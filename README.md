@@ -3,11 +3,11 @@
 This is a **MERN (MongoDB, Express, React, Node.js) CRUD Application** that allows users to **Create, Read, Update, and Delete** data efficiently.  
 
 ## Features  
-- ✅ Create new records  
-- ✅ Read and display existing records  
-- ✅ Update existing records  
-- ✅ Delete records permanently  
-- ✅ Responsive and user-friendly UI  
+- ✅ Create new user record  
+- ✅ Read and display existing users records  
+- ✅ Update existing users records  
+- ✅ Delete users records permanently  
+- ✅ Responsive and user-friendly UI
 
 ## Technologies Used  
 - **MongoDB** - NoSQL database for storing data  
@@ -20,3 +20,4 @@ This is a **MERN (MongoDB, Express, React, Node.js) CRUD Application** that allo
 ```sh
 git clone https://github.com/chbasit/mern-crud-application.git
 cd mern-crud-app
+
